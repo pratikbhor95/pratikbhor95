@@ -28,7 +28,8 @@ I am a **Backend Engineer** with over 3 years of experience specializing in arch
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikbhor95&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats-seven-nu-42.vercel.app/api?username=pratikbhor95&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikbhor95&theme=tokyonight" alt="Streak" />
 </p>
 
