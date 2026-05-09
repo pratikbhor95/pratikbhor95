@@ -10,8 +10,8 @@
 I am a **Backend Engineer** with over 3 years of experience specializing in architecting scalable REST APIs and optimizing high-volume data systems. I have a proven track record of solving complex backend bottlenecks, including engineering a **10x improvement** in video ingestion speeds through multi-threading and I/O optimization.
 
 ### 🛠️ Tech Stack & Expertise
-* **Languages:** Python (Expert), Java, SQL, JavaScript (Basic).
-* **Frameworks:** FastAPI, Django (DRF), Spring Boot.
+* **Languages:** Python (Expert), SQL, JavaScript.
+* **Frameworks:** FastAPI, Django (DRF), Next.js.
 * **Cloud & DevOps:** AWS (EC2, S3), Docker, Git, Postman.
 * **Databases:** PostgreSQL, MySQL (Schema Design & Joins).
 * **AI & Data Engineering:** LLM Integration (Gemini, Ollama), Pandas, OpenCV.
